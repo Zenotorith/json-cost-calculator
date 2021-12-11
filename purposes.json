@@ -1,0 +1,15 @@
+[
+    
+        {
+            "id": 1,
+            "name": "Cá nhân",
+            "roadMaintainaceTax": 130000
+        },
+
+        {
+            "id": 2,
+            "name": "Kinh doanh",
+            "roadMaintainaceTax": 180000
+        }
+    
+]

@@ -1,0 +1,56 @@
+[
+    
+        {
+            "id": 1,
+            "name": "New Ciaz",
+            "type": "car",
+            "seats": 4,
+            "price": 529000000,
+            "colors": ["Đen", "Đỏ", "Nâu", "Trắng", "Xám"]
+        },
+
+        {
+            "id": 2,
+            "name": "Ertiga 5MT",
+            "type": "car",
+            "seats": 5,
+            "price": 499900000,
+            "colors": ["Bạc", "Đen", "Đỏ", "Trắng", "Xám"]
+        },
+
+        {
+            "id": 3,
+            "name": "Ertiga Sport",
+            "type": "car",
+            "seats": 5,
+            "price": 559900000,
+            "colors": ["Bạc", "Đen", "Đỏ", "Trắng", "Xám"]
+        },
+
+        {
+            "id": 4,
+            "name": "The All New XL7",
+            "type": "car",
+            "seats": 7,
+            "price": 589900000,
+            "colors": ["Đen", "Cam", "Đỏ rượu", "Khaki", "Trắng", "Xám"]
+        },
+
+        {
+            "id": 5,
+            "name": "The All New XL7 (Ghế da)",
+            "type": "car",
+            "seats": 7,
+            "price": 599900000,
+            "colors": ["Đen", "Cam", "Đỏ rượu", "Khaki", "Trắng", "Xám"]
+        },
+
+        {
+            "id": 6,
+            "name": "Swift GLX CVT",
+            "type": "car",
+            "seats": 5,
+            "price": 549900000,
+            "colors": ["Bạc", "Cam", "Đen", "Đỏ", "Trắng", "Xám", "Xanh"]
+        } 
+]

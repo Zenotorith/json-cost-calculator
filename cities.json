@@ -1,0 +1,641 @@
+[     
+        {
+            "code": 1,
+            "name": "Hà Nội",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 20000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ha-noi"
+        },
+
+        {
+            "code": 2,
+            "name": "TP Hồ Chí Minh",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 20000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ho-chi-minh"
+        },
+
+        {
+            "code": 3,
+            "name": "TP Đà Nẵng",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "da-nang"
+        },
+
+        {
+            "code": 4,
+            "name": "TP Cần Thơ",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "can-tho"
+        },
+        
+        {
+            "code": 5,
+            "name": "An Giang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "an-giang"
+        },
+
+        {
+            "code": 6,
+            "name": "Bà Rịa - Vũng Tàu",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "vung-tau"
+        },
+
+        {
+            "code": 7,
+            "name": "Bạc Liêu",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "bac-lieu"
+        },
+
+        {
+            "code": 8,
+            "name": "Bắc Kạn",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "bac-kan"
+        },
+
+        {
+            "code": 9,
+            "name": "Bắc Giang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "bac-giang"
+        },
+
+        {
+            "code": 10,
+            "name": "Bắc Ninh",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "bac-ninh"
+        },
+
+        {
+            "code": 11,
+            "name": "Bến Tre",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ben-tre"
+        },
+
+        {
+            "code": 12,
+            "name": "Bình Dương",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "binh-duong"
+        },
+
+        {
+            "code": 13,
+            "name": "Bình Định",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "binh-dinh"
+        },
+
+        {
+            "code": 14,
+            "name": "Bình Phước",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "binh-phuoc"
+        },
+
+        {
+            "code": 15,
+            "name": "Bình Thuận",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "binh-thuan"
+        },
+
+        {
+            "code": 16,
+            "name": "Cà Mau",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ca-mau"
+        },
+
+        {
+            "code": 17,
+            "name": "Cao Bằng",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "cao-bang"
+        },
+
+        {
+            "code": 18,
+            "name": "Đắk Lắk",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "dak-lak"
+        },
+
+        {
+            "code": 19,
+            "name": "Đắk Nông",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "dak-nong"
+        },
+
+        {
+            "code": 20,
+            "name": "Điện Biên",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "dien-bien"
+        },
+
+        {
+            "code": 21,
+            "name": "Đồng Nai",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "dong-nai"
+        },
+
+        {
+            "code": 22,
+            "name": "Đồng Tháp",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "dong-thap"
+        },
+
+        {
+            "code": 23,
+            "name": "Gia Lai",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "gia-lai"
+        },
+
+        {
+            "code": 24,
+            "name": "Hà Giang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ha-giang"
+        },
+
+        {
+            "code": 25,
+            "name": "Hà Nam",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ha-nam"
+        },
+
+        {
+            "code": 26,
+            "name": "Hà Tây",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ha-tay"
+        },
+
+        {
+            "code": 27,
+            "name": "Hà Tĩnh",
+            "carRegistrationTax": 0.11,
+            "pickupRegistrationTax": 0.66,
+            "carNumberPlateRegistrationTax": 200000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ha-tinh"
+        },
+
+        {
+            "code": 28,
+            "name": "Hải Dương",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "hai-duong"
+        },
+
+        {
+            "code": 29,
+            "name": "Hải Phòng",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "hai-phong"
+        },
+
+        {
+            "code": 30,
+            "name": "Hòa Bình",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "hoa-binh"
+        },
+
+        {
+            "code": 31,
+            "name": "Hậu Giang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "hau-giang"
+        },
+
+        {
+            "code": 32,
+            "name": "Hưng Yên",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "hung-yen"
+        },
+
+        {
+            "code": 33,
+            "name": "Khánh Hòa",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "khanh-hoa"
+        },
+
+        {
+            "code": 34,
+            "name": "Kiên Giang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "kien-giang"
+        },
+
+        {
+            "code": 35,
+            "name": "Kon Tum",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "kon-tum"
+        },
+
+        {
+            "code": 36,
+            "name": "Lai Châu",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "lai-chau"
+        },
+
+        {
+            "code": 37,
+            "name": "Lào Cai",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "lao-cai"
+        },
+
+        {
+            "code": 38,
+            "name": "Lạng Sơn",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "lang-son"
+        },
+    
+        {
+            "code": 39,
+            "name": "Lâm Đồng",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "lam-dong"
+        },
+
+        {
+            "code": 40,
+            "name": "Long An",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "long-an"
+        },
+
+        {
+            "code": 41,
+            "name": "Nam Định",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "nam-dinh"
+        },
+
+        {
+            "code": 42,
+            "name": "Nghệ An",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "nghe-an"
+        },
+
+        {
+            "code": 43,
+            "name": "Ninh Bình",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ninh-binh"
+        },
+
+        {
+            "code": 44,
+            "name": "Ninh Thuận",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "ninh-thuan"
+        },
+
+        {
+            "code": 45,
+            "name": "Phú Thọ",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "phu-tho"
+        },
+
+        {
+            "code": 46,
+            "name": "Phú Yên",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "phu-yen"
+        },
+
+        {
+            "code": 47,
+            "name": "Quảng Bình",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "quang-binh"
+        },
+
+        {
+            "code": 48,
+            "name": "Quảng Nam",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "quang-nam"
+        },
+
+        {
+            "code": 49,
+            "name": "Quảng Ngãi",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "quang-ngai"
+        },
+
+        {
+            "code": 50,
+            "name": "Quảng Ninh",
+            "carRegistrationTax": 0.12,
+            "pickupRegistrationTax": 0.072,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "quang-ninh"
+        },
+
+        {
+            "code": 51,
+            "name": "Quảng Trị",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "quang-tri"
+        },
+
+        {
+            "code": 52,
+            "name": "Sóc Trăng",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "soc-trang"
+        },
+
+        {
+            "code": 53,
+            "name": "Sơn La",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "son-la"
+        },
+
+        {
+            "code": 54,
+            "name": "Tây Ninh",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "tay-ninh"
+        },
+
+        {
+            "code": 55,
+            "name": "Thái Bình",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "thai-binh"
+        },
+
+        {
+            "code": 56,
+            "name": "Thái Nguyên",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "thai-nguyen"
+        },
+
+        {
+            "code": 57,
+            "name": "Thanh Hóa",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "thanh-hoa"
+        },
+
+        {
+            "code": 58,
+            "name": "Thừa Thiên - Huế",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "hue"
+        },
+
+        {
+            "code": 59,
+            "name": "Tiền Giang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "tien-giang"
+        },
+
+        {
+            "code": 60,
+            "name": "Trà Vinh",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "tra-vinh"
+        },
+
+        {
+            "code": 61,
+            "name": "Tuyên Quang",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "tuyen-quang"
+        },
+
+        {
+            "code": 62,
+            "name": "Vĩnh Long",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "vinh-long"
+        },
+
+        {
+            "code": 63,
+            "name": "Vĩnh Phúc",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "vinh-phuc"
+        },
+
+        {
+            "code": 64,
+            "name": "Yên Bái",
+            "carRegistrationTax": 0.1,
+            "pickupRegistrationTax": 0.06,
+            "carNumberPlateRegistrationTax": 2000000,
+            "pickupNumberPlateRegistrationTax": 500000,
+            "slug": "yen-bai"
+        } 
+]
